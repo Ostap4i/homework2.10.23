@@ -1,0 +1,5 @@
+﻿  2ю11ю23.cpp
+  HashTablh.cpp
+  Создание кода...
+HashTablh.obj : error LNK2005: "int __cdecl simpleHashFunction(int,int)" (?simpleHashFunction@@YAHHH@Z) уже определен в 2ю11ю23.obj
+C:\Users\Admin\source\repos\2ю11ю23\x64\Debug\2ю11ю23.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
